@@ -1,0 +1,15 @@
+{
+  "name": "BigHouseIT Solutions",
+  "short_name": "BigHouseIT",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020b18",
+  "theme_color": "#06162f",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
