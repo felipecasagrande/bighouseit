@@ -1,8 +1,13 @@
-# BigHouseIT v10 - Single File
+# BigHouseIT Solutions v14
 
-Versão preparada para GitHub Pages com a logo principal incorporada no próprio HTML, evitando falhas de caminho para assets locais.
+Versão com revelação cinematográfica por seção durante a leitura.
 
-1. Coloque index.html na raiz do repositório.
-2. Mantenha GitHub Pages em main / (root).
-3. Faça commit.
-4. Aguarde o deploy e atualize com Ctrl+F5.
+Efeitos:
+- fade + blur + deslocamento progressivo por seção
+- estilos de entrada diferentes em Soluções, Tech Stack, Método, Clientes e Contato
+- stagger nos cards
+- timeline animada no método
+- logos em onda na seção de clientes
+- rail de progresso e aura da seção em leitura
+
+O index.html é autônomo e pode ser publicado diretamente no GitHub Pages.
