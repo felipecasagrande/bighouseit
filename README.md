@@ -1,3 +1,4 @@
-BigHouseIT v17
+# BigHouseIT v18
 
-Fade explícito 0% -> 100% ao clicar no menu + fundo escuro nas logos dos clientes.
+Versão com preview Open Graph/WhatsApp atualizado usando a nova arte da BigHouseIT.
+A imagem está em assets/og-cover-v18.jpg e as metas do index.html apontam para a URL pública correspondente.
