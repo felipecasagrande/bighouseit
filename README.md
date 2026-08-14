@@ -1,3 +1,3 @@
-# BigHouseIT Solutions v4
+# BigHouseIT v9
 
-Versão com topo anterior e frase atualizada no hero.
+Versão preservando o site v8 e substituindo a seção de clientes por logos reais pesquisados na web, sem imagens recortadas.
